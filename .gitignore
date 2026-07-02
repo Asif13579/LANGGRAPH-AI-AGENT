@@ -1,0 +1,31 @@
+# Environment files
+.env
+
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+
+# VS Code
+.vscode/
+
+# Python compiled files
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
